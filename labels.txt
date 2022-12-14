@@ -1,0 +1,9 @@
+0 cat
+1 dog
+2 elephant
+3 fox
+4 hippo
+5 penguin
+6 rabbit
+7 walrus
+8 wolf
